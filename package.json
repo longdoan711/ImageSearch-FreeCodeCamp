@@ -1,0 +1,25 @@
+{
+  "name": "image-search-abstraction-layer",
+  "version": "1.0.0",
+  "description": "freecodecamp project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/longdoan711/ImageSearch-FreeCodeCamp.git"
+  },
+  "author": "Long Doan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/longdoan711/ImageSearch-FreeCodeCamp/issues"
+  },
+  "homepage": "https://github.com/longdoan711/ImageSearch-FreeCodeCamp#readme",
+  "dependencies": {
+    "express" : "^4.14.0",
+    "mongodb": "^2.2.11",
+    "node-bing-api": "^3.0.1"
+  }
+}
